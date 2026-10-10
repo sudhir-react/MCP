@@ -1,0 +1,6 @@
+product_id,product_name,raw_price,raw_rating,review_count,cleaned_price,cleaned_rating,cleaned_reviews
+SKU-101,Elite Refrigerator Pro,"₹95,000.00 inclusive of taxes",4.7 Stars out of 5,"1,245 Reviews",95000.0,4.7,1245
+SKU-102,Smart Cooling Fridge,"₹35,799 Only",  3.9  ,482,35799.0,3.9,482
+SKU-103,Compact Mini-Bar,"Price: ₹12,499.00",No Ratings Yet,0 Reviews,12499.0,0.0,0
+SKU-104,Double-Door Supreme,"₹54,000 + GST Extra",4.2,Malformed 99 strings,54000.0,4.2,99
+SKU-105,Industrial Cold Vault,Call for Price / Out of Stock,NaN / Critical Error,0,0.0,0.0,0
